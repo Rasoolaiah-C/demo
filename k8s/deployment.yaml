@@ -16,4 +16,4 @@ spec:
         - name: demo-app
           image: yourdockerhub/demo-app:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 8081
